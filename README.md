@@ -1,3 +1,3 @@
 # My Static Website
 
-- HTML and CSS project deployed using CI/CD on GitLab Actions
+- HTML and CSS project deployed using CI/CD on GitLab Actions 
